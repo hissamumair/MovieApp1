@@ -7,7 +7,7 @@ export default function Search({ text, setText }) {
         style={styles.input}
         onChangeText={(text) => setText(text)}
         value={text}
-        placeholder="Search Here Movie"
+        placeholder="Search Here Movie gg"
         placeholderTextColor={"black"}
       />
     </View>
