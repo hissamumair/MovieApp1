@@ -7,7 +7,7 @@ export default function Search({ text, setText }) {
         style={styles.input}
         onChangeText={(text) => setText(text)}
         value={text}
-        placeholder="Search movue here"
+        placeholder="Search movue here hhhhhh"
         placeholderTextColor={"purple"}
       />
     </View>
