@@ -8,7 +8,7 @@ export default function Search({ text, setText }) {
         onChangeText={(text) => setText(text)}
         value={text}
         placeholder="Search movue here hhhhhh"
-        placeholderTextColor={"red"}
+        placeholderTextColor={"yellow"}
       />
     </View>
   );
