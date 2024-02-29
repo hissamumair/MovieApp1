@@ -60,7 +60,7 @@ export default function CardTile({ navigation, item, isDetailsPage }) {
           )}
           {isDetailsPage && (
             <View style={{ marginTop: 6 }}>
-              <Text style={{ color: "black", fontSize: 18 }}>
+              <Text style={{ color: "red", fontSize: 18 }}>
                 {item.description}
               </Text>
             </View>
