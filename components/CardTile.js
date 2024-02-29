@@ -77,7 +77,7 @@ export default function CardTile({ navigation, item, isDetailsPage }) {
               <Button
                 onPress={() => navigation.navigate("DetailsScreen", { id: item.id })}
                 title="Details"
-                color={"red"}
+                color={"blue"}
               />
             </View>
           )}
